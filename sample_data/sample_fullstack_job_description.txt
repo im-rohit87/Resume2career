@@ -1,0 +1,20 @@
+Role: Senior Full Stack Engineer
+Company: CloudScale Innovations Inc.
+Location: Remote / Hybrid
+
+About the Role:
+We are looking for a Senior Full Stack Engineer to lead the design and implementation of high-throughput web applications and cloud services. You will collaborate closely with product and infrastructure teams to build resilient distributed systems and intuitive client experiences.
+
+Required Qualifications:
+- 3+ years of production experience building web applications using Python (FastAPI or Django) and modern JavaScript/TypeScript (React).
+- Strong proficiency in relational database schema design, indexing, and optimization (PostgreSQL or MySQL).
+- Solid experience in designing RESTful APIs, microservices, and asynchronous background worker queues.
+- Hands-on experience with containerization technologies such as Docker and basic cloud deployment (AWS or GCP).
+- Experience with in-memory caching solutions like Redis.
+- Solid understanding of Data Structures, Algorithms, and Software Engineering design patterns.
+
+Preferred / Nice-to-Have Skills:
+- Experience with Kubernetes orchestration and CI/CD pipelines.
+- Familiarity with Kafka or RabbitMQ event streaming.
+- Proficiency with GraphQL and WebSockets.
+- Experience tuning frontend web performance and state management.
