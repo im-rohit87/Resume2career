@@ -79,6 +79,17 @@ app.include_router(admin.router, prefix=settings.API_PREFIX)
 app.include_router(reports.router, prefix=settings.API_PREFIX)
 
 
+# Root endpoint
+@app.get("/")
+def home():
+    return {
+        "message": "Welcome to Resume2Career API",
+        "status": "running",
+        "documentation": "/api/docs",
+        "health": "/api/health"
+    }
+
+
 @app.get("/api/health")
 def health_check():
     return {
