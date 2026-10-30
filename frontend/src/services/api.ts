@@ -12,7 +12,7 @@ import {
   AdminStats,
 } from '../types';
 
-const API_BASE = '/api';
+const API_BASE = 'https://resume2career-3rns.onrender.com/api';
 
 // Token Management
 export const getToken = (): string | null => localStorage.getItem('r2i_token');
